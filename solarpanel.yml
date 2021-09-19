@@ -1,0 +1,7 @@
+train: /content/solarpanel/images/train/ 
+val: /content/solarpanel/images/train/
+
+# number of classes
+nc: 1
+# class names
+names: [ 'solarpanel' ]
